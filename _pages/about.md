@@ -54,7 +54,7 @@ My research interests include **trustworthy recommender systems**, **graph neura
 - **`SIGIR 2022`** [INMO: A Model-Agnostic and Scalable Module for Inductive Collaborative Filtering](https://dl.acm.org/doi/abs/10.1145/3477495.3532000)  
   ***Yunfan Wu**, Qi Cao, Huawei Shen, Shuchang Tao, Xueqi Cheng*
 
-- **`CIKM 2022`** [Single Node Injection Attack Against Graph Neural Networks](https://dl.acm.org/doi/abs/10.1145/3459637.3482393)  
+- **`CIKM 2021`** [Single Node Injection Attack Against Graph Neural Networks](https://dl.acm.org/doi/abs/10.1145/3459637.3482393)  
   *Shuchang Tao, Qi Cao, Huawei Shen, Junjie Huang, **Yunfan Wu**, Xueqi Cheng*
 
 # 📖 Educations
