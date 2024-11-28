@@ -17,42 +17,54 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
+# 👋 About Me
 
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+Hi! I am a **PhD student** at the **Institute of Computing Technology**, Chinese Academy of Sciences, advised by **Qi Cao** and **Huawei Shen**.
+
+I graduated from the **University of Chinese Academy of Sciences** with a bachelor’s degree. 
+As part of my undergraduate project, I also had the opportunity to study as an **exchange student** at the **National University of Singapore**.
+
+My research focuses on **trustworthy recommender systems**, **graph neural networks**, and **large language models**.
+
+# 📝 Publications
+- **`NeurIPS 2024`** [Understanding and Improving Adversarial Collaborative Filtering for Robust Recommendation](https://arxiv.org/abs/2410.22844)  
+  *Kaike Zhang, Qi Cao, **Yunfan Wu**, Fei Sun, Huawei Shen, Xueqi Cheng*
+
+- **`RecSys 2024`** [Accelerating the Surrogate Retraining for Poisoning Attacks Against Recommender Systems](https://dl.acm.org/doi/abs/10.1145/3640457.3688148)  
+  ***Yunfan Wu**, Qi Cao, Shuchang Tao, Kaike Zhang, Fei Sun, Huawei Shen*
+
+- **`RecSys 2024`** [Improving the Shortest Plank: Vulnerability-Aware Adversarial Training for Robust Recommender System](https://dl.acm.org/doi/abs/10.1145/3640457.3688120)  
+  *Kaike Zhang, Qi Cao, **Yunfan Wu**, Fei Sun, Huawei Shen, Xueqi Cheng*
+
+- **`SIGIR 2024`** [LoRec: Combating Poisons with Large Language Model for Robust Sequential Recommendation](https://dl.acm.org/doi/abs/10.1145/3626772.3657684)  
+  *Kaike Zhang, Qi Cao, **Yunfan Wu**, Fei Sun, Huawei Shen, Xueqi Cheng*
+
+- **`Information Sciences 2024`** [IDEA: Invariant Defense for Graph Adversarial Robustness](https://www.sciencedirect.com/science/article/abs/pii/S0020025524010855)  
+  *Shuchang Tao, Qi Cao, Huawei Shen, **Yunfan Wu**, Bingbing Xu, Xueqi Cheng*
+
+- **`Information Sciences 2023`** [Adversarial Camouflage for Node Injection Attack on Graphs](https://www.sciencedirect.com/science/article/abs/pii/S0020025523011969)  
+  *Shuchang Tao, Qi Cao, Huawei Shen, **Yunfan Wu**, Liang Hou, Fei Sun, Xueqi Cheng*
+
+- **`TKDE 2023`** [Graph Adversarial Immunization for Certifiable Robustness](https://ieeexplore.ieee.org/abstract/document/10237327/)  
+  *Shuchang Tao, Qi Cao, Huawei Shen, **Yunfan Wu**, Liang Hou, Xueqi Cheng*
+
+- **`SIGIR 2023`** [Popularity Debiasing from Exposure to Interaction in Collaborative Filtering](https://dl.acm.org/doi/abs/10.1145/3539618.3591947)  
+  *Yuanhao Liu, Qi Cao, Huawei Shen, **Yunfan Wu**, Shuchang Tao, Xueqi Cheng*
+
+- **`SIGIR 2022`** [INMO: A Model-Agnostic and Scalable Module for Inductive Collaborative Filtering](https://dl.acm.org/doi/abs/10.1145/3477495.3532000)  
+  ***Yunfan Wu**, Qi Cao, Huawei Shen, Shuchang Tao, Xueqi Cheng*
+
+- **`CIKM 2022`** [Single Node Injection Attack Against Graph Neural Networks](https://dl.acm.org/doi/abs/10.1145/3459637.3482393)  
+  *Shuchang Tao, Qi Cao, Huawei Shen, Junjie Huang, **Yunfan Wu**, Xueqi Cheng*
+
+# 📖 Education
+
+- **2019.09 - Present**, *PhD*, Institute of Computing Technology, Chinese Academy of Sciences, Beijing, China.  
+- **2018.08 - 2018.12**, *Exchange Student*, National University of Singapore, Singapore.  
+- **2015.09 - 2019.06**, *Bachelor’s Degree*, University of Chinese Academy of Sciences, Beijing, China.  
 
 
-# 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+# 🏆 Competitions
 
-# 📝 Publications 
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
-
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
-
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-</div>
-</div>
-
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
-
-# 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-
-# 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
-
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+- **2017** - *Gold Medal*, ACM-ICPC Asia Regional Contest (Shenyang Site).  
+- **2013** - *First Prize*, National Olympiad in Informatics in Provinces (NOIP).
