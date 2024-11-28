@@ -24,7 +24,7 @@ Hi! I am a **PhD student** at the **Institute of Computing Technology**, Chinese
 I graduated from the **University of Chinese Academy of Sciences** with a bachelor’s degree. 
 As part of my undergraduate project, I also had the opportunity to study as an **exchange student** at the **National University of Singapore**.
 
-My research focuses on **trustworthy recommender systems**, **graph neural networks**, and **large language models**.
+My research interests include **trustworthy recommender systems**, **graph neural networks**, and **large language models**.
 
 # 📝 Publications
 - **`NeurIPS 2024`** [Understanding and Improving Adversarial Collaborative Filtering for Robust Recommendation](https://arxiv.org/abs/2410.22844)  
