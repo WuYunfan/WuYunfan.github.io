@@ -57,7 +57,7 @@ My research interests include **trustworthy recommender systems**, **graph neura
 - **`CIKM 2022`** [Single Node Injection Attack Against Graph Neural Networks](https://dl.acm.org/doi/abs/10.1145/3459637.3482393)  
   *Shuchang Tao, Qi Cao, Huawei Shen, Junjie Huang, **Yunfan Wu**, Xueqi Cheng*
 
-# 📖 Education
+# 📖 Educations
 
 - **2019.09 - Present**, *PhD*, Institute of Computing Technology, Chinese Academy of Sciences, Beijing, China.  
 - **2018.08 - 2018.12**, *Exchange Student*, National University of Singapore, Singapore.  
