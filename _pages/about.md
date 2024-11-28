@@ -66,5 +66,5 @@ My research interests include **trustworthy recommender systems**, **graph neura
 
 # 🏆 Competitions
 
-- **2017** - *Gold Medal*, ACM-ICPC Asia Regional Contest (Shenyang Site).  
+- **2017** - *Gold Medal*, ACM-ICPC Asia Regional Contest, Shenyang Site.  
 - **2013** - *First Prize*, National Olympiad in Informatics in Provinces (NOIP).
