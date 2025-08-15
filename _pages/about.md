@@ -31,11 +31,13 @@ My research interests include **trustworthy recommender systems**, **graph neura
   *Kaike Zhang, Qi Cao, Fei Sun, **Yunfan Wu**, Shuchang Tao, Huawei Sheng, Xueqi Cheng*
   
 - **`CSCW 2025`** “I Know You Are Discriminatory!”: Automated Substantiating for Individual Fairness Auditing of AI Systems
-  
   *Yuanhao Liu, Qi Cao, Huawei Shen, Kaike Zhang, **Yunfan Wu***
   
 - **`WWW 2025`** [Personalized Denoising Implicit Feedback for Robust Recommender System](https://dl.acm.org/doi/pdf/10.1145/3696410.3714932)  
   *Kaike Zhang, Qi Cao, **Yunfan Wu**, Fei Sun, Huawei Shen, Xueqi Cheng*
+
+- **`WWW 2025`** [The 1st Workshop on Human-Centered Recommender Systems](https://arxiv.org/pdf/2411.14760)  
+  *Kaike Zhang, **Yunfan Wu**, Yougang Lyu, Du Su, Yingqiang Ge, Shuchang Liu, Qi Cao, Zhaochun Ren, Fei Sun*
   
 - **`NeurIPS 2024`** [Understanding and Improving Adversarial Collaborative Filtering for Robust Recommendation](https://arxiv.org/abs/2410.22844)  
   *Kaike Zhang, Qi Cao, **Yunfan Wu**, Fei Sun, Huawei Shen, Xueqi Cheng*
