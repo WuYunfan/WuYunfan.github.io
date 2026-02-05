@@ -28,8 +28,8 @@ My research interests include **generative recommendation**, **large language mo
 
 # 💼 Industry Experience
 
-- **2025.05 - Present**, *Algorithm Intern*, Kuaishou Technology, Beijing, China
-  - Recommendation Foundation Models
+- **2025.05 - 2026.01**, *Algorithm Intern*, Kuaishou Technology, Beijing, China
+  - Recommendation Foundation Models, OneRec Team
   - 
 - **2024.12 - 2025.04**, *Algorithm Intern*, Xiaohongshu, Beijing, China
   - Home Feed Video Recommendation
@@ -40,21 +40,30 @@ My research interests include **generative recommendation**, **large language mo
   *Zhibo Wu, **Yunfan Wu**, Quan Liu, Lin Jiang, Ping Yang, Yao Hu*
 
 - **`SIGIR-AP 2026`** [GDA: Graph Distance Autoencoder for Label-only Membership Inference Attack on GNNs](https://dl.acm.org/doi/10.1145/3767695.3769506).
-  *Yang Li\*, **Yunfan Wu**\*, BingBing Xu, Fei Sun, Qi Cao, Huawei Shen* (\*Equal Contribution)
+  *Yang Li\*, **Yunfan Wu**\*, BingBing Xu, Fei Sun, Qi Cao, Huawei Shen*
+  
+- **`arXiv 2025`** [OneRec Technical Report](https://arxiv.org/pdf/2506.13695)
+  *Guorui Zhou, Jiaxin Deng, Jinghao Zhang, ..., **Yunfan Wu**, et al.*
+  
+- **`arXiv 2025`** [OneRec-V2 Technical Report](https://arxiv.org/pdf/2508.20900)
+  *Guorui Zhou, Hengrui Hu, Hongtao Cheng, ..., **Yunfan Wu**, et al.*
+  
+- **`arXiv 2025`** [OpenOneRec Technical Report](https://arxiv.org/pdf/2512.24762)
+  *Guorui Zhou, Honghui Bao, Jiaming Huang, ..., **Yunfan Wu**, et al.*
 
 - **`CSUR 2025`** [Robust Recommender System: A Survey and Future Directions](https://dl.acm.org/doi/10.1145/3757057)
   *Kaike Zhang, Qi Cao, Fei Sun, **Yunfan Wu**, Shuchang Tao, Huawei Shen, Xueqi Cheng*
 
-- **`CSCW 2025`** "I Know You Are Discriminatory!": Automated Substantiating for Individual Fairness Auditing of AI Systems
+- **`CSCW 2025`** ["I Know You Are Discriminatory!": Automated Substantiating for Individual Fairness Auditing of AI Systems](https://dl.acm.org/doi/10.1145/3757414)
   *Yuanhao Liu, Qi Cao, Huawei Shen, Kaike Zhang, **Yunfan Wu**, Xueqi Cheng*
 
 - **`WWW 2025`** [Personalized Denoising Implicit Feedback for Robust Recommender System](https://dl.acm.org/doi/pdf/10.1145/3696410.3714932)
   *Kaike Zhang, Qi Cao, **Yunfan Wu**, Fei Sun, Huawei Shen, Xueqi Cheng*
 
-- **`WWW 2025`** [The 1st Workshop on Human-Centered Recommender Systems](https://arxiv.org/pdf/2411.14760)
+- **`WWW 2025`** [The 1st Workshop on Human-Centered Recommender Systems](https://dl.acm.org/doi/10.1145/3701716.3717736)
   *Kaike Zhang, **Yunfan Wu**, Yougang Lyu, Du Su, Yingqiang Ge, Shuchang Liu, Qi Cao, Zhaochun Ren, Fei Sun*
 
-- **`NeurIPS 2024`** [Understanding and Improving Adversarial Collaborative Filtering for Robust Recommendation](https://arxiv.org/abs/2410.22844)
+- **`NeurIPS 2024`** [Understanding and Improving Adversarial Collaborative Filtering for Robust Recommendation](https://dl.acm.org/doi/10.5555/3737916.3741742)
   *Kaike Zhang, Qi Cao, **Yunfan Wu**, Fei Sun, Huawei Shen, Xueqi Cheng*
 
 - **`RecSys 2024`** [Accelerating the Surrogate Retraining for Poisoning Attacks Against Recommender Systems](https://dl.acm.org/doi/abs/10.1145/3640457.3688148)
