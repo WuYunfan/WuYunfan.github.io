@@ -26,14 +26,6 @@ As part of my undergraduate studies, I also had the opportunity to study as an *
 
 My research interests include **generative recommendation**, **large language models**, **trustworthy recommender systems**, and **graph neural networks**.
 
-# 💼 Industry Experience
-
-- **2025.05 - 2026.01**, *Algorithm Intern*, Kuaishou Technology, Beijing, China
-  - Recommendation Foundation Models, OneRec Team
- 
-- **2024.12 - 2025.04**, *Algorithm Intern*, Xiaohongshu, Beijing, China
-  - Home Feed Video Recommendation
-
 # 📝 Publications
 
 - **`WWW 2026`** GemiRec: Interest Quantization and Generation for Multi-Interest Recommendation
@@ -99,6 +91,13 @@ My research interests include **generative recommendation**, **large language mo
 - **2018.08 - 2018.12**, *Exchange Student*, National University of Singapore, Singapore.
 - **2015.09 - 2019.06**, *Bachelor's Degree*, University of Chinese Academy of Sciences, Beijing, China.
 
+# 💼 internships
+
+- **2025.05 - 2026.01**, *Algorithm Intern*, Kuaishou Technology, Beijing, China
+  - Recommendation Foundation Models, OneRec Team
+- **2024.12 - 2025.04**, *Algorithm Intern*, Xiaohongshu, Beijing, China
+  - Home Feed Video Recommendation
+    
 # 🏆 Competetions
 
 - **2025** - *Technical Innovation Award* (Special Honor), Tencent Advertising Algorithm Competition, 5th Place in Finals.
