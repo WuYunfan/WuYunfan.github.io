@@ -35,18 +35,18 @@ My research interests include **generative recommendation**, **large language mo
 - **`SIGIR-AP 2026`** [GDA: Graph Distance Autoencoder for Label-only Membership Inference Attack on GNNs](https://dl.acm.org/doi/10.1145/3767695.3769506).
   
   *Yang Li\*, **Yunfan Wu**\*, BingBing Xu, Fei Sun, Qi Cao, Huawei Shen*
+
+- **`arXiv 2025`** [OpenOneRec Technical Report](https://arxiv.org/pdf/2512.24762)
   
-- **`arXiv 2025`** [OneRec Technical Report](https://arxiv.org/pdf/2506.13695)
-  
-  *Guorui Zhou, Jiaxin Deng, Jinghao Zhang, ..., **Yunfan Wu**, et al.*
+  *Guorui Zhou, Honghui Bao, Jiaming Huang, ..., **Yunfan Wu**, et al.*
   
 - **`arXiv 2025`** [OneRec-V2 Technical Report](https://arxiv.org/pdf/2508.20900)
   
   *Guorui Zhou, Hengrui Hu, Hongtao Cheng, ..., **Yunfan Wu**, et al.*
+    
+- **`arXiv 2025`** [OneRec Technical Report](https://arxiv.org/pdf/2506.13695)
   
-- **`arXiv 2025`** [OpenOneRec Technical Report](https://arxiv.org/pdf/2512.24762)
-  
-  *Guorui Zhou, Honghui Bao, Jiaming Huang, ..., **Yunfan Wu**, et al.*
+  *Guorui Zhou, Jiaxin Deng, Jinghao Zhang, ..., **Yunfan Wu**, et al.*
 
 - **`CSUR 2025`** [Robust Recommender System: A Survey and Future Directions](https://dl.acm.org/doi/10.1145/3757057)
   
