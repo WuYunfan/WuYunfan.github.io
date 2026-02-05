@@ -30,7 +30,7 @@ My research interests include **generative recommendation**, **large language mo
 
 - **2025.05 - 2026.01**, *Algorithm Intern*, Kuaishou Technology, Beijing, China
   - Recommendation Foundation Models, OneRec Team
-  - 
+ 
 - **2024.12 - 2025.04**, *Algorithm Intern*, Xiaohongshu, Beijing, China
   - Home Feed Video Recommendation
 
