@@ -28,9 +28,9 @@ My research interests include **generative recommendation**, **large language mo
 
 # 📝 Publications
 
-- **`WWW 2026`** GemiRec: Interest Quantization and Generation for Multi-Interest Recommendation
+- **`WWW 2026`** Causality Enhancement for Cross-Domain Recommendation
   
-  *Zhibo Wu, **Yunfan Wu**, Quan Liu, Lin Jiang, Ping Yang, Yao Hu*
+  *Zhibo Wu, **Yunfan Wu**, Lin Jiang, Ping Yang, Yao Hu*
 
 - **`SIGIR-AP 2026`** [GDA: Graph Distance Autoencoder for Label-only Membership Inference Attack on GNNs](https://dl.acm.org/doi/10.1145/3767695.3769506).
   
